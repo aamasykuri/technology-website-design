@@ -432,9 +432,9 @@
     left: 30px;
 }
 
-.services_card p {
+.services__card p {
     position: absolute;
-    top: 4000px;
+    top: 400px;
     left: 30px;
 }
 
